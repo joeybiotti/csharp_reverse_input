@@ -1,0 +1,8 @@
+/Users/joeybb/Workspace/csharp/katas/ltr_input/bin/Debug/netcoreapp1.1/ltr_input.deps.json
+/Users/joeybb/Workspace/csharp/katas/ltr_input/bin/Debug/netcoreapp1.1/ltr_input.runtimeconfig.json
+/Users/joeybb/Workspace/csharp/katas/ltr_input/bin/Debug/netcoreapp1.1/ltr_input.runtimeconfig.dev.json
+/Users/joeybb/Workspace/csharp/katas/ltr_input/bin/Debug/netcoreapp1.1/ltr_input.dll
+/Users/joeybb/Workspace/csharp/katas/ltr_input/bin/Debug/netcoreapp1.1/ltr_input.pdb
+/Users/joeybb/Workspace/csharp/katas/ltr_input/obj/Debug/netcoreapp1.1/ltr_input.AssemblyInfo.cs
+/Users/joeybb/Workspace/csharp/katas/ltr_input/obj/Debug/netcoreapp1.1/ltr_input.dll
+/Users/joeybb/Workspace/csharp/katas/ltr_input/obj/Debug/netcoreapp1.1/ltr_input.pdb
